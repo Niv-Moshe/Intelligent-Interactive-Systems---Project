@@ -1,0 +1,21 @@
+Q1,Q2,Q3,,,,,,,,
+2 is more interesting,1 is more interesting,1 is more interesting,,,Q1,Q2,Q3,,FEDERER,
+2 is more interesting,1 is more interesting,2 is more interesting,,,A1: Federer article,A1: Imposter article ,A1: Salt article,,n_best,3
+2 is more interesting,1 is more interesting,1 is more interesting,,,A2: Salt article,A2: Federer article,A2: Imposter article ,,n_worst,37
+2 is more interesting,1 is more interesting,2 is more interesting,,,,,,,Score,3-37  = -34
+2 is more interesting,1 is more interesting,1 is more interesting,,,,,,,,
+2 is more interesting,1 is more interesting,2 is more interesting,,,,,,,SALT,
+2 is more interesting,1 is more interesting,1 is more interesting,,,,,,,n_best,30
+2 is more interesting,1 is more interesting,2 is more interesting,,,,,,,n_worst,10
+2 is more interesting,1 is more interesting,1 is more interesting,,,,,,,Score,30-10 = 20
+2 is more interesting,1 is more interesting,2 is more interesting,,,,,,,,
+1 is more interesting,1 is more interesting,1 is more interesting,,,,,,,IMPOSTER,
+2 is more interesting,1 is more interesting,2 is more interesting,,,,,,,n_best,27
+2 is more interesting,2 is more interesting,2 is more interesting,,,,,,,n_worst,13
+1 is more interesting,1 is more interesting,1 is more interesting,,,,,,,Score,27-13  = 14
+2 is more interesting,1 is more interesting,2 is more interesting,,,,,,,,
+2 is more interesting,1 is more interesting,1 is more interesting,,,,,,,Most interesting:,IMPOSTER
+2 is more interesting,1 is more interesting,1 is more interesting,,,,,,,Most boring:,FEDERER
+2 is more interesting,1 is more interesting,1 is more interesting,,,,,,,,
+2 is more interesting,1 is more interesting,1 is more interesting,,,,,,,,
+2 is more interesting,1 is more interesting,1 is more interesting,,,,,,,,
